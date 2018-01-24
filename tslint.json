@@ -1,4 +1,3 @@
-
 {
 	"rules": {
 		"align": [true, "parameters", "arguments", "statements"],
@@ -61,5 +60,3 @@
 		"whitespace": [true, "check-branch", "check-decl", "check-operator", "check-separator", "check-type"]
 	}
 }
-
-   
